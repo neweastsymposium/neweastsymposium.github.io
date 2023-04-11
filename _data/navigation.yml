@@ -3,7 +3,7 @@ main:
   - title: "Registration"
     url: "index.html"
   - title: "Schedule"
-    url: "schedule.html"
+    url: "https://neweastsymposium.github.io/schedule.html"
   - title: "Participant Biographies"
     url: "index.html"
   - title: "Past Symposia"
