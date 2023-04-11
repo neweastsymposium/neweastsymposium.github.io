@@ -1,7 +1,13 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Registration"
+    url: "index.html"
+  - title: "Schedule"
+    url: "schedule.html"
+  - title: "Participant Biographies"
+    url: "index.html"
+  - title: "Past Symposia"
+    url: "index.html"
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
