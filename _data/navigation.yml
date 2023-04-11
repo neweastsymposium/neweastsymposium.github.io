@@ -7,7 +7,7 @@ main:
   - title: "Participant Biographies"
     url: "/bios/"
   - title: "Past Symposia"
-    url: "/past-symposia/"
+    url: "/past-symposia/home/"
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -16,3 +16,9 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+archive-sidebar: 
+  - title: "2022"
+    url: "/past-symposia/2022"
+  - title: "2021"
+    url: "/past-symposia/2021"
