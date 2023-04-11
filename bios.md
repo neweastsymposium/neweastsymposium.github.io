@@ -2,8 +2,8 @@
 layout: single
 author_profile: true
 permalink: /bios/
+title: "Event Participants"
 ---
-# Event Participants
 
 ## Ilya Budraitskis 
 llya Budraitskis is a political and social theorist, previously based in Moscow. He recently joined UC, Berkeley as a visiting scholar. He writes regularly for Jacobin, Republic.ru, Colta.ru, Posle.media and other outlets. Budraitskis’s essay collection *Dissidents among Dissidents: Ideology, politics and The Left in Post-Soviet Russia* was published by Verso in 2022.
